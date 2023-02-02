@@ -26,6 +26,7 @@ const handleShow =(el)=>{
 const remove=(id)=>{
 // console.log(id);
 dispatch(Remove(id))
+
 }
 // update function
 const usertask_update=()=>{
